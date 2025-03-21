@@ -95,6 +95,17 @@ VideoGestureRecognition/
 
 ## 🖼️ Screenshots
 ![Image](https://github.com/user-attachments/assets/891f80aa-6ed2-4be1-ae67-15424591f79e)
+![Image](https://github.com/user-attachments/assets/a26f3c62-4b4d-4737-bc52-a4d6ba9a2f99)
+![Image](https://github.com/user-attachments/assets/0303da06-f3d8-42d0-9ab3-777e63f43afa)
+![Image](https://github.com/user-attachments/assets/774389ef-3172-4405-8e67-623653991159)
+![Image](https://github.com/user-attachments/assets/c9ae6835-fc60-419c-b194-857ecf6adacc)
+![Image](https://github.com/user-attachments/assets/e41eef90-f64f-45fc-b221-d0528b5e48cd)
+![Image](https://github.com/user-attachments/assets/2dd7775d-53d2-466f-8937-13dec861cf9a)
+![Image](https://github.com/user-attachments/assets/5b00390b-10fa-4024-8652-68fc2976b172)
+![Image](https://github.com/user-attachments/assets/6470509c-df95-4408-a9f3-be0a612a1228)
+![Image](https://github.com/user-attachments/assets/f87ffef5-2407-43df-8b68-bf72716e1e21)
+![Image](https://github.com/user-attachments/assets/2b1daaef-0501-47a3-b05d-54aefee4e5de)
+![Image](https://github.com/user-attachments/assets/cc4a26f3-33b5-402d-abf1-a38bbf18d39c)
 
 
 
