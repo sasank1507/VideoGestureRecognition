@@ -94,7 +94,7 @@ VideoGestureRecognition/
 ---
 
 ## 🖼️ Screenshots
-(Add relevant screenshots of your project here)
+![Image](https://github.com/user-attachments/assets/891f80aa-6ed2-4be1-ae67-15424591f79e)
 
 
 
